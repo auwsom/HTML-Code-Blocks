@@ -1,7 +1,7 @@
 # HTML-Code-Blocks
 HTML Code Blocks reusable
 
-The idea here is to use HTML Imports for code inclusions (https://www.w3schools.com/howto/howto_html_include.asp) from snippets hosted on Github. Gists could be used but Github provides a superior search tool. Thus snippets can be searched for and then sorted by repositories with most stars. Ideally more granularity would help rate specific snippets and webpages could be built up from simply including the top 100 most starred snippets. Collections could follow searchable with code fragment combinations etc. Living evolving code!
+The idea here is to use HTML Imports for code inclusions (https://www.w3schools.com/howto/howto_html_include.asp) from snippets hosted on Github. Gists could be used but Github provides a superior search tool. Thus snippets can be searched for and then sorted by repositories with most stars. Ideally more granularity would help rate specific snippets and webpages could be built up from simply including the top 100 most starred snippets. Collections could follow searchable with code fragment combinations etc. Living evolving HTML code!
 
 Example search query using Advanced Search:
 
